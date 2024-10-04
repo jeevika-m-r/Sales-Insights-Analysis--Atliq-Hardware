@@ -1,4 +1,4 @@
- **Sales Insights Analysis - Atliq-Hardware**
+ **Sales Insights Analysis for Atliq-Hardware**
 
  **Project Overview**
 
